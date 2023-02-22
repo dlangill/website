@@ -1,2 +1,3 @@
-# website
-My personal website.
+# Hello, I am David Langill.
+
+Welcome to my personal website.
